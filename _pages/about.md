@@ -17,14 +17,14 @@ Geotechnical stability issues often involve unpredictable natural (e.g., earthqu
 To address the challenge, I developed a new upper-bound solution for multi-wedge rigid block mechanisms in soils with nonlinear power-law failure criterion. This approach utilizes a curved interface that obeys the nonlinear yield function flow rule along its full length. The ability of the proposed nonlinear upper bound solution to collect data about the shear and normal stresses at every point along the failure surface is discussed. The issue of non-associativity is investigated in the context of discrete rigid block limit analysis. I developed new methods to obtain non-associative solutions by separately quantifying dilation and shearing friction for frictional materials.
 
 <figure>
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="420">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="360">
 <figcaption>Figure1. Rapid tool for non-linear analysis in LimitState:GEO.</figcaption>
 </figure>
 
 <br> 
 
 <figure>
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="420">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="360">
 <figcaption>Figure2. DLO analysis for non-associative toppling-sliding rock slope failure.</figcaption>
 </figure>
 
