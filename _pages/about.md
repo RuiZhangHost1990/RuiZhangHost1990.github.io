@@ -17,11 +17,13 @@ Geotechnical stability issues often involve unpredictable natural (e.g., earthqu
 To address the challenge, I developed a new upper-bound solution for multi-wedge rigid block mechanisms in soils with nonlinear power-law failure criterion. This approach utilizes a curved interface that obeys the nonlinear yield function flow rule along its full length. The ability of the proposed nonlinear upper bound solution to collect data about the shear and normal stresses at every point along the failure surface is discussed. The issue of non-associativity is investigated in the context of discrete rigid block limit analysis. I developed new methods to obtain non-associative solutions by separately quantifying dilation and shearing friction for frictional materials.
 
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="描述文本" width="300">
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.gif" alt="描述文本" width="300">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="300">
 
 2.Smart noise logger-based leak diagnosis system and consultancy study on modeling of failure of ferrous water mains:
 
 The research on pipe failure diagnosis and modeling enhances Hong Kong's Water Distribution Networks (HKWDN) by improving leak/burst prediction and maintenance efficiency. This project benefits academics, contractors, and municipal personnel by providing AI-driven models for failure prediction and analyzing soil impact on pipe integrity. As a key researcher, I focus on leak detection using wavelet transforms and decomposition techniques on sensor data (Noise logger, Accelerometer). I collect and analyze acoustic signals, extract features with AI-based methods, and develop leak location solutions using R-Studio, RapidMiner, and Python for deep learning. Additionally, I model soil-pipe interactions to support water infrastructure management.
+
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture6.png" alt="描述文本" width="300">
 
 3.A smart digital twin framework using advanced modelling and data analytics for monitoring and management of city-scale underground transportation infrastructure:
 
