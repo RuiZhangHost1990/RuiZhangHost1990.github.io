@@ -37,9 +37,12 @@ The research on pipe failure diagnosis and modeling enhances Hong Kong's Water D
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture6.png" alt="描述文本" width="550">
 <figcaption>Figure3. A new noise logger-based leak diagnosis system for water distribution networks based on acoustic emission and machine learning.</figcaption>
 
+<br>
 
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture3.png" alt="描述文本" width="550">
 <figcaption>Figure4. Numerical modeling of soil-pipe interaction throughout pipe service life.</figcaption>
+
+<br>
 
 3.A smart digital twin framework using advanced modelling and data analytics for monitoring and management of city-scale underground transportation infrastructure:
 
@@ -47,8 +50,8 @@ This project aims to develop advanced digital modeling and analytics for a smart
 
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture7.jpg" alt="描述文本" width="500">
 <figcaption>Figure5. Digital twin for physical tunnel in operation and construction stages: (a) High-fidelity FE model for tunnel structure.</figcaption>
+<br>
 
-
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture9.jpg" alt="描述文本" width="500">
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture9.png" alt="描述文本" width="500">
 <figcaption>Figure6. Digital twin for physical tunnel in operation and construction stages: (b) Effects of seepage.</figcaption>
+<br>
