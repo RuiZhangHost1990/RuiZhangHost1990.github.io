@@ -16,12 +16,19 @@ Research Experience
 Geotechnical stability issues often involve unpredictable natural (e.g., earthquakes) or anthropogenic hazards (e.g., blasts). Efficient numerical modeling is crucial for early hazard warning and rapid assessment, aiding engineers in designing soil structures to meet environmental and societal needs. Limit analysis is commonly used to determine collapse loads, traditionally assuming linear failure criteria and associative flow rules. However, real soils often exhibit nonlinear behavior, and associative rules overestimate volumetric strains in frictional soils, leading to unsafe designs. 
 To address the challenge, I developed a new upper-bound solution for multi-wedge rigid block mechanisms in soils with nonlinear power-law failure criterion. This approach utilizes a curved interface that obeys the nonlinear yield function flow rule along its full length. The ability of the proposed nonlinear upper bound solution to collect data about the shear and normal stresses at every point along the failure surface is discussed. The issue of non-associativity is investigated in the context of discrete rigid block limit analysis. I developed new methods to obtain non-associative solutions by separately quantifying dilation and shearing friction for frictional materials.
 
+<figure>
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="420">
 <figcaption>Figure1. Rapid tool for non-linear analysis in LimitState:GEO.</figcaption>
+</figure>
 
+<br> 
 
+<figure>
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="420">
 <figcaption>Figure2. DLO analysis for non-associative toppling-sliding rock slope failure.</figcaption>
+</figure>
+
+<br> 
 
 2.Smart noise logger-based leak diagnosis system and consultancy study on modeling of failure of ferrous water mains:
 
@@ -43,4 +50,5 @@ This project aims to develop advanced digital modeling and analytics for a smart
 
 
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture9.jpg" alt="描述文本" width="500">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture9.png" alt="描述文本" width="500">
 <figcaption>Figure6. Digital twin for physical tunnel in operation and construction stages: (b) Effects of seepage.</figcaption>
