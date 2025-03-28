@@ -31,7 +31,7 @@ Work experience
   
 Service and Internship Experience              
 ======
-* 07/2018–01/2020Assistant Librarian in Western BankLibrary in University of Sheffield. 
+* 07/2018–01/2020 Assistant Librarian in Western BankLibrary in University of Sheffield. 
 * 07/2017–03/2018 Assistant and Auditor in Green Impact Project in University of Sheffield. 
 * 12/2020–07/2021 Engineerin China Civil Engineering Construction Corporation (CCECC) FuzhouSurvey and Design. Institute Co., Ltd.
 
