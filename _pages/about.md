@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,41 +9,51 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+Hi Everyone! My name is Rui Zhang. I received the Ph.D. degree in civil engineering from The University of Sheffield in 2020. My research interests include digital twin systems, computational geomechanics, geotechnical engineering design, application of artificial intelligence in civil engineering, underground infrastructure management, and intelligent transportation systems (ITS). I am also an Associate Fellow of the Higher Education Academy in U.K. My research goal is to develop the advanced technology for intelligent infrastructure to meet different challenges. To achieve the goal, I have some research fundamentals in three main aspects: sensing monitoring, numerical modeling, and data analytics. I first built a solid foundation of geotechnical engineering during my PhD study. Then I go beyond geotechnical engineering and conduct interdisciplinary studies. During postdoc studies, I accumulated deep knowledge of sensor technologies, structural dynamics, control techniques, and artificial intelligence. Based on that, I and my partner developed noise logger-based leak diagnosis system. I also simulated tunnel as a system and coordinated a cyber-physical testbed to predict hazard effect and guide scenario planning for tunnel operations.
+
+Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1.Limit analysis of unsaturated soil problems using discontinuity layout optimization under nonlinear and non-associative yield conditions:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Geotechnical stability issues often involve unpredictable natural (e.g., earthquakes) or anthropogenic hazards (e.g., blasts). Efficient numerical modeling is crucial for early hazard warning and rapid assessment, aiding engineers in designing soil structures to meet environmental and societal needs. Limit analysis is commonly used to determine collapse loads, traditionally assuming linear failure criteria and associative flow rules. However, real soils often exhibit nonlinear behavior, and associative rules overestimate volumetric strains in frictional soils, leading to unsafe designs. 
+To address the challenge, I developed a new upper-bound solution for multi-wedge rigid block mechanisms in soils with nonlinear power-law failure criterion. This approach utilizes a curved interface that obeys the nonlinear yield function flow rule along its full length. The ability of the proposed nonlinear upper bound solution to collect data about the shear and normal stresses at every point along the failure surface is discussed. The issue of non-associativity is investigated in the context of discrete rigid block limit analysis. I developed new methods to obtain non-associative solutions by separately quantifying dilation and shearing friction for frictional materials.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<figure>
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="260">
+<figcaption>Figure1. Rapid tool for non-linear analysis in LimitState:GEO.</figcaption>
+</figure>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<br> 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<figure>
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="300">
+<figcaption>Figure2. DLO analysis for non-associative toppling-sliding rock slope failure.</figcaption>
+</figure>
 
-**Markdown generator**
+<br> 
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+2.Smart noise logger-based leak diagnosis system and consultancy study on modeling of failure of ferrous water mains:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+The research on pipe failure diagnosis and modeling enhances Hong Kong's Water Distribution Networks (HKWDN) by improving leak/burst prediction and maintenance efficiency. This project benefits academics, contractors, and municipal personnel by providing AI-driven models for failure prediction and analyzing soil impact on pipe integrity. As a key researcher, I focus on leak detection using wavelet transforms and decomposition techniques on sensor data (Noise logger, Accelerometer). I collect and analyze acoustic signals, extract features with AI-based methods, and develop leak location solutions using R-Studio, RapidMiner, and Python for deep learning. Additionally, I model soil-pipe interactions to support water infrastructure management.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture6.png" alt="描述文本" width="550">
+<figcaption>Figure3. A new noise logger-based leak diagnosis system for water distribution networks based on acoustic emission and machine learning.</figcaption>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<br>
+
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture3.png" alt="描述文本" width="550">
+<figcaption>Figure4. Numerical modeling of soil-pipe interaction throughout pipe service life.</figcaption>
+
+<br>
+
+3.A smart digital twin framework using advanced modelling and data analytics for monitoring and management of city-scale underground transportation infrastructure:
+
+This project aims to develop advanced digital modeling and analytics for a smart digital twin framework to diagnose, predict, and manage faults in underground transportation infrastructure. Singapore’s LTA requires innovative methods to maintain tunnel efficiency and integrity, as conventional inspections are limited in diagnosing faults. My role is to create a digital twin solution for fault detection, performance prediction, and decision-making. I established a cyber-physical loop connecting simulations with real structures and developed heterogeneous models to capture complex tunnel behaviors.
+
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture7.jpg" alt="描述文本" width="500">
+<figcaption>Figure5. Digital twin for physical tunnel in operation and construction stages: High-fidelity FE model for tunnel structure.</figcaption>
+<br>
+
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture9.png" alt="描述文本" width="500">
+<figcaption>Figure6. Digital twin for physical tunnel in operation and construction stages: Effects of seepage.</figcaption>
+<br>
