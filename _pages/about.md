@@ -25,7 +25,7 @@ To address the challenge, I developed a new upper-bound solution for multi-wedge
 <br> 
 
 <figure>
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.png" alt="描述文本" width="200">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.png" alt="blockProblem" width="100">
 <figcaption>Figure2. DLO analysis for non-associative toppling-sliding rock slope failure.</figcaption>
 </figure>
 
