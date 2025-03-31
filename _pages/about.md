@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 Hi Everyone! My name is Rui Zhang. I received the Ph.D. degree in civil engineering from The University of Sheffield in 2020. My research interests include digital twin systems, computational geomechanics, geotechnical engineering design, application of artificial intelligence in civil engineering, underground infrastructure management, and intelligent transportation systems (ITS). I am also an Associate Fellow of the Higher Education Academy in U.K. My research goal is to develop the advanced technology for intelligent infrastructure to meet different challenges. To achieve the goal, I have some research fundamentals in three main aspects: sensing monitoring, numerical modeling, and data analytics. I first built a solid foundation of geotechnical engineering during my PhD study. Then I go beyond geotechnical engineering and conduct interdisciplinary studies. During postdoc studies, I accumulated deep knowledge of sensor technologies, structural dynamics, control techniques, and artificial intelligence. Based on that, I and my partner developed noise logger-based leak diagnosis system. I also simulated tunnel as a system and coordinated a cyber-physical testbed to predict hazard effect and guide scenario planning for tunnel operations.
 
@@ -19,14 +18,14 @@ Geotechnical stability issues often involve unpredictable natural (e.g., earthqu
 To address the challenge, I developed a new upper-bound solution for multi-wedge rigid block mechanisms in soils with nonlinear power-law failure criterion. This approach utilizes a curved interface that obeys the nonlinear yield function flow rule along its full length. The ability of the proposed nonlinear upper bound solution to collect data about the shear and normal stresses at every point along the failure surface is discussed. The issue of non-associativity is investigated in the context of discrete rigid block limit analysis. I developed new methods to obtain non-associative solutions by separately quantifying dilation and shearing friction for frictional materials.
 
 <figure>
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="260">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="200">
 <figcaption>Figure1. Rapid tool for non-linear analysis in LimitState:GEO.</figcaption>
 </figure>
 
 <br> 
 
 <figure>
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="300">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="200">
 <figcaption>Figure2. DLO analysis for non-associative toppling-sliding rock slope failure.</figcaption>
 </figure>
 
