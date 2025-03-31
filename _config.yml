@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rui Zhang / Doctor of Philosophy(PhD)"
+title                    : "Rui Zhang / Doctor of Philosophy (PhD)"
 title_separator          : "-"
 name                     : &name "Rui Zhang"
 description              : &description "personal description"
