@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi Everyone! My name is Rui Zhang. I received the Ph.D. degree in civil engineering from The University of Sheffield in 2020. My research interests include digital twin systems, computational geomechanics, geotechnical engineering design, application of artificial intelligence in civil engineering, underground infrastructure management, and intelligent transportation systems (ITS). I am also an Associate Fellow of the Higher Education Academy in U.K. My research goal is to develop the advanced technology for intelligent infrastructure to meet different challenges. To achieve the goal, I have some research fundamentals in three main aspects: sensing monitoring, numerical modeling, and data analytics. I first built a solid foundation of geotechnical engineering during my PhD study. Then I go beyond geotechnical engineering and conduct interdisciplinary studies. During postdoc studies, I accumulated deep knowledge of sensor technologies, structural dynamics, control techniques, and artificial intelligence. Based on that, I and my partner developed noise logger-based leak diagnosis system. I also simulated tunnel as a system and coordinated a cyber-physical testbed to predict hazard effect and guide scenario planning for tunnel operations.
+Hi Everyone! My name is Rui Zhang. I received the Ph.D. degree in civil engineering from The University of Sheffield in 2020. My research interests include digital twin systems, computational geomechanics, geotechnical engineering design, application of artificial intelligence in civil engineering, underground infrastructure management, and intelligent transportation systems (ITS). I am also an Associate Fellow of the Higher Education Academy in U.K. My research goal is to develop the advanced technology for intelligent infrastructure to meet different challenges. To achieve the goal, I have some research fundamentals in three main aspects: sensing monitoring, numerical modeling, and data analytics. I first built a solid foundation of geotechnical engineering during my PhD study. Then I go beyond geotechnical engineering and conduct interdisciplinary studies. During postdoc studies, I accumulated deep knowledge of sensor technologies, structural dynamics and reliability analysis, digitalization techniques, and artificial intelligence. Based on that, I and my teammates developed noise logger-based leak diagnosis system. I also simulated tunnel as a system and coordinated a cyber-physical testbed to predict hazard effect and guide scenario planning for tunnel operations.
 
 Research Experience
 ======
@@ -18,14 +18,14 @@ Geotechnical stability issues often involve unpredictable natural (e.g., earthqu
 To address the challenge, I developed a new upper-bound solution for multi-wedge rigid block mechanisms in soils with nonlinear power-law failure criterion. This approach utilizes a curved interface that obeys the nonlinear yield function flow rule along its full length. The ability of the proposed nonlinear upper bound solution to collect data about the shear and normal stresses at every point along the failure surface is discussed. The issue of non-associativity is investigated in the context of discrete rigid block limit analysis. I developed new methods to obtain non-associative solutions by separately quantifying dilation and shearing friction for frictional materials.
 
 <figure>
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture1.gif" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="10">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture1.png" alt="Rapid tool for non-linear analysis in LimitState:GEO." width="300">
 <figcaption>Figure1. Rapid tool for non-linear analysis in LimitState:GEO.</figcaption>
 </figure>
 
 <br> 
 
 <figure>
-<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.jpg" alt="描述文本" width="200">
+<img src="https://ruizhanghost1990.github.io/images/themes/Picture2.png" alt="描述文本" width="200">
 <figcaption>Figure2. DLO analysis for non-associative toppling-sliding rock slope failure.</figcaption>
 </figure>
 
@@ -56,3 +56,5 @@ This project aims to develop advanced digital modeling and analytics for a smart
 <img src="https://ruizhanghost1990.github.io/images/themes/Picture9.png" alt="描述文本" width="500">
 <figcaption>Figure6. Digital twin for physical tunnel in operation and construction stages: Effects of seepage.</figcaption>
 <br>
+
+Now I am working in the research project: 'Digital twin of processes for construction of buildings' in Aalto University. And I am trying to create a realistic simulation model of the construction process and connect it to an automated sensing system of construction status to form the digital twin.
